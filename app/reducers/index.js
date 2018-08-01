@@ -4,7 +4,7 @@ import dashboard from './dashboard';
 
 const rootReducer = combineReducers({
   dashboard,
-  router
+  router,
 });
 
 export default rootReducer;
